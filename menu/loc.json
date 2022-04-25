@@ -1,0 +1,31 @@
+{
+    "cleaner_menu" : "Cleaner",
+    "cleaner_menu_desc" : "Undo damage caused by cheaters.",
+    "cleaner_reset_offshore" : "Reset offshore money",
+    "cleaner_reset_offshore_desc" : "Reset ALL of your offshore money.",
+    "cleaner_reset_spending" : "Reset spending cash",
+    "cleaner_reset_spending_desc" : "Reset ALL of your spending cash back to 0.",
+    "cleaner_reset_cc" : "Reset continental coins",
+    "cleaner_reset_cc_desc" : "Reset ALL of your continental coins back to 0.",
+    
+    "cleaner_deduct_100mil_offshore" : "Deduct 100 million offshore",
+    "cleaner_deduct_1bil_offshore" : "Deduct 1 billion offshore",
+    "cleaner_deduct_10bil_offshore" : "Deduct 10 billion offshore",
+    "cleaner_deduct_100bil_offshore" : "Deduct 100 billion offshore",
+    "cleaner_deduct_1tril_offshore" : "Deduct 1 trillion offshore",
+    "cleaner_deduct_10tril_offshore" : "Deduct 10 trillion offshore",
+    
+    "cleaner_deduct_10mil_spending" : "Deduct 10 million spending cash",
+    "cleaner_deduct_100mil_spending" : "Deduct 100 million spending cash",
+    "cleaner_deduct_1bil_spending" : "Deduct 1 billion spending cash",
+    "cleaner_deduct_10bil_spending" : "Deduct 10 billion spending cash",
+    "cleaner_deduct_100bil_spending" : "Deduct 100 billion spending cash",
+    "cleaner_deduct_1tril_spending" : "Deduct 1 trillion spending cash",
+
+    "cleaner_deduct_10mil_cc" : "Deduct 10 million continental coins",
+    "cleaner_deduct_100mil_cc" : "Deduct 100 million continental coins",
+    "cleaner_deduct_1bil_cc" : "Deduct 1 billion continental coins",
+    "cleaner_deduct_10bil_cc" : "Deduct 10 billion continental coins",
+    "cleaner_deduct_100bil_cc" : "Deduct 100 billion continental coins",
+    "cleaner_deduct_1tril_cc" : "Deduct 1 trillion continental coins"
+}

@@ -1,0 +1,14 @@
+{
+    "name" : "Cleaner",
+    "description" : "Allows you to clean up messes made by cheaters.",
+    "author" : "Rokk",
+    "contact" : "http://steamcommunity.com/id/Rokk",
+    "version" : "1.0",
+    "blt_version": 2,
+    "hooks" : [  
+        {
+            "hook_id" : "lib/managers/menumanager",
+            "script_path" : "cleaner.lua"
+        }
+    ]
+}

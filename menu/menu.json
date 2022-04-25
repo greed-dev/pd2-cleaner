@@ -1,0 +1,169 @@
+{
+	"menu_id" : "Cleaner_menu",
+	"parent_menu_id" : "blt_options",
+	"title" : "cleaner_menu",
+	"description" : "cleaner_menu_desc",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "cleaner_reset_offshore",
+			"title" : "cleaner_reset_offshore",
+			"description" : "cleaner_reset_offshore_desc",
+			"callback" : "callback_cleaner_reset_offshore"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_100mil_offshore",
+			"title" : "cleaner_deduct_100mil_offshore",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_hundred_million_offshore"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_1bil_offshore",
+			"title" : "cleaner_deduct_1bil_offshore",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_one_billion_offshore"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_10bil_offshore",
+			"title" : "cleaner_deduct_10bil_offshore",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_ten_billion_offshore"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_100bil_offshore",
+			"title" : "cleaner_deduct_100bil_offshore",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_hundred_billion_offshore"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_1tril_offshore",
+			"title" : "cleaner_deduct_1tril_offshore",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_one_trillion_offshore"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_10tril_offshore",
+			"title" : "cleaner_deduct_10tril_offshore",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_ten_trillion_offshore"
+		},
+        
+        {
+            "type" : "divider",
+            "size" : 10
+        },
+        
+		{
+			"type" : "button",
+			"id" : "cleaner_reset_spending",
+			"title" : "cleaner_reset_spending",
+			"description" : "cleaner_reset_spending_desc",
+			"callback" : "callback_cleaner_reset_spending_cash"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_10mil_spending",
+			"title" : "cleaner_deduct_10mil_spending",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_ten_million_spending"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_100mil_spending",
+			"title" : "cleaner_deduct_100mil_spending",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_hundred_million_spending"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_1bil_spending",
+			"title" : "cleaner_deduct_1bil_spending",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_one_billion_spending"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_10bil_spending",
+			"title" : "cleaner_deduct_10bil_spending",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_ten_billion_spending"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_100bil_spending",
+			"title" : "cleaner_deduct_100bil_spending",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_hundred_billion_spending"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_1tril_spending",
+			"title" : "cleaner_deduct_1tril_spending",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_one_trillion_spending"
+		},
+		
+		{
+            "type" : "divider",
+            "size" : 10
+        },
+        
+		{
+			"type" : "button",
+			"id" : "cleaner_reset_cc",
+			"title" : "cleaner_reset_cc",
+			"description" : "cleaner_reset_cc_desc",
+			"callback" : "callback_cleaner_reset_cc"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_10mil_cc",
+			"title" : "cleaner_deduct_10mil_cc",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_ten_million_cc"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_100mil_cc",
+			"title" : "cleaner_deduct_100mil_cc",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_hundred_million_cc"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_1bil_cc",
+			"title" : "cleaner_deduct_1bil_cc",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_one_billion_cc"
+		},
+
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_10bil_cc",
+			"title" : "cleaner_deduct_10bil_cc",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_ten_billion_cc"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_100bil_cc",
+			"title" : "cleaner_deduct_100bil_cc",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_hundred_billion_cc"
+		},
+		{
+			"type" : "button",
+			"id" : "cleaner_deduct_1tril_cc",
+			"title" : "cleaner_deduct_1tril_cc",
+			"description" : "",
+			"callback" : "callback_cleaner_remove_one_trillion_cc"
+		}
+        
+	]
+}
