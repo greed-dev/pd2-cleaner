@@ -1,9 +1,9 @@
 {
-    "name" : "Cleaner",
+    "name" : "Cleaner Revitalized",
     "description" : "Allows you to clean up messes made by cheaters.",
-    "author" : "Rokk",
-    "contact" : "http://steamcommunity.com/id/Rokk",
-    "version" : "1.0",
+    "author" : "Greed",
+    "contact" : "https://steamcommunity.com/id/gr3333d/",
+    "version" : "1.0.1",
     "blt_version": 2,
     "hooks" : [  
         {
