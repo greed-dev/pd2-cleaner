@@ -1,8 +1,8 @@
 # pd2-cleaner
 Cleans up messes made by cheaters in Payday 2
 
-##Warning:
-###This mod is made to clean up messes made by cheaters. It is therefore highly destructive. Use at your own risk.
+## Warning:
+### This mod is made to clean up messes made by cheaters. It is therefore highly destructive. Use at your own risk.
 
 This mod was originally created by Rokk on modworkshop, and I've picked it up to add the somewhat-heavily-requested featuer of continental coin cleanup.
 
