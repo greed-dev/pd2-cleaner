@@ -1,6 +1,4 @@
 # pd2-cleaner
-Cleans up messes made by cheaters in Payday 2
-
 ## Warning:
 ### This mod is made to clean up messes made by cheaters. It is therefore highly destructive. Use at your own risk.
 
